@@ -1,1 +1,0 @@
-this text file is meant for lab 1 for EECS 348.
